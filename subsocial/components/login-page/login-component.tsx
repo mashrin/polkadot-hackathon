@@ -40,7 +40,8 @@ const LoginComponent = () => {
     <div className="flex flex-col justify-center  container mt-5 text-white mx-auto">
       <Logo height="2.3rem" />
       <span className="font-bold text-2xl mt-6 pt-1 text-center">Log in to Twitter</span>
-      <small className="text-center">just type anything</small>
+      <small className="text-center">Polkadot Hackathon</small>
+      <small className="text-center">Polkadot extension is required</small>
       <div className=" lg:w-5/12 lg:px-0 px-5 w-full mt-5 mx-auto">
         <button
           onClick={connectWallet}
