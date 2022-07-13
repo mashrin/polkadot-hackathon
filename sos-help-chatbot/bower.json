@@ -1,0 +1,17 @@
+{
+  "name": "covid19-resources",
+  "main": "component/Bubble.js",
+  "homepage": "",
+  "authors": ["Mashrin"],
+  "description": "COVID-19 Resources",
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ]
+}
