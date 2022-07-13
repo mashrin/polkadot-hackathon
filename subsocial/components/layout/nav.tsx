@@ -17,8 +17,7 @@ const links = [
 	{ href: '/notifications', icon: <Notification height="1.4rem" />, title: 'Notifications' },
 	{ href: '/messages', icon: <Envelope height="1.4rem" />, title: 'Messages' },
 	{ href: '/bookmarks', icon: <Bookmark height="1.4rem" />, title: 'Bookmarks' },
-	{ href: '/lists', icon: <List height="1.4rem" />, title: 'List' },
-	// { href: '/profile', icon: <Profile height="1.4rem" />, title: 'Profile' },
+	{ href: 'https://mashrin.github.io/covid19-resources/app/index.html', icon: <List height="1.4rem" />, title: 'SOS Help' },
 	{ href: 'https://twitter.com/sri_mash', icon: <Profile height="1.4rem" />, title: 'Profile' },
 ];
 
